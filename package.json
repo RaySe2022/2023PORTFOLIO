@@ -1,0 +1,23 @@
+{
+  "name": "2023portfolio",
+  "version": "1.0.0",
+  "description": "Rei Setogawa's UX Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaySe2022/2023PORTFOLIO.git"
+  },
+  "author": "Rei Setogawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaySe2022/2023PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/RaySe2022/2023PORTFOLIO#readme",
+  "keywords": [
+    "UX",
+    "Portfolio"
+  ]
+}
